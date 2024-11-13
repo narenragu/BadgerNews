@@ -8,7 +8,7 @@ function BadgerNewsStack(props) {
 
   return (
     <Stack.Navigator>
-      <Stack.Screen name="News Feed" component={BadgerNewsScreen} />
+      <Stack.Screen name="Articles" component={BadgerNewsScreen} />
       <Stack.Screen name="Article" component={BadgerArticleScreen} />
     </Stack.Navigator>
   );
