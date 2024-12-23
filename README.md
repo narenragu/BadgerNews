@@ -2,7 +2,7 @@
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/3b05d792-cad3-457f-a1bd-de7890105886" />
 
 ## Background
-This project was made as part of CS571: Building User Interfaces
+This project was made as part of CS571: Building User Interfaces at UW-Madison
 
 Badger News is an app that lets you browse articles from the UW-Madison news page. It was made in React Native, and is cross-platform.
 
